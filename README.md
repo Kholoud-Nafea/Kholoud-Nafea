@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kholoud Nafea</h1>
 
-<h1 align="center">Software Developer</h1>
+<h1 align="center">Frontend Developer</h1>
 
 <h5 align="left">Software developer with 3+ years of experience in frontend and mobile, I specialize in building modern web applications using React, Redux, Next.js, and React Query, and have developed mobile apps with React Native for both iOS and Android.I have also contributed to backend development using Node.js, Express, and SQL databases. Currently working as a Frontend Team Leader, where I lead the frontend team and freelancers. I also collaborate in managing the backend team to ensure seamless integration and delivery across the stack. I'm passionate about building scalable applications, clean architecture and continuously expanding my technical and leadership skills.</h5>
 
